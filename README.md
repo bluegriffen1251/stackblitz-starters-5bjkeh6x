@@ -35,7 +35,7 @@ npm install dotenv
 
 ### **2. Create an .env File**
 
-Create a file named `.env` in your project directory and add the following variables:
+Create a file named `.env` in your projet directory and add the following variables:
 
 ```plaintext
 API_KEY=
